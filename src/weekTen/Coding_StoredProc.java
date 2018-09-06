@@ -1,7 +1,7 @@
 package weekTen;
 
 public class Coding_StoredProc {
-	//THIS WEEK'S WORK STILL IN PROCESS 
+	
 	
 	/*
 	 * Write 5 stored procedures for the employees database. Write a description of what each stored procedure does 
